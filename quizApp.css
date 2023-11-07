@@ -1,0 +1,64 @@
+body{
+    background-color: #54c3ef;
+    margin-top: 50px;
+}
+h1{
+    font-family: "Caveat Brush", cursive;
+    font-size: 60px;
+    font-weight: 700;
+    text-align: center;
+    color: #fad744;
+    text-shadow: 2px 5px #2b3252;
+    margin: 0;
+}
+form{
+    width: 40%;
+    margin: 0 auto;
+    margin-top: 30px;
+    background-color: #2b3252;
+    color: #fad744;
+    border-radius: 6px;
+    padding: 16px;
+}
+div{
+    margin-top: 10px;
+    border-bottom: 2px solid #fad744;
+    padding-bottom: 50px;
+}
+.options{
+    display: block;
+    margin-top: 20px;
+}
+button{
+    margin: 30px auto;
+    background-color: #fad744;
+    color: black;
+    width: 70px;
+    height: 30px;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+    display: block;
+}
+#score{
+    background-color: white;
+    width: 120px;
+    border-radius: 5px;
+    height: 200px;
+    padding-top: 20px;
+    padding-left: 20px;
+    position: sticky;
+    bottom: 43.5%;
+    left: 72%;
+    border: none;
+}
+#score p{
+    font-family: "Source Sans Pro";
+    font-weight: 400;
+    font-size: 20px;
+}
+#score h2{
+    font-family: "Source Sans Pro";
+    font-weight: 700;
+    font-size: 35px;
+}
